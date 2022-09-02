@@ -1,0 +1,14 @@
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4\Lab4\bin\Lab4.dll.config
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4\Lab4\bin\Lab4.dll
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4\Lab4\bin\Lab4.pdb
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4\Lab4\obj\Debug\Lab4.dll
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4Unzipped\Lab4\Lab4\bin\Lab4.dll.config
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4Unzipped\Lab4\Lab4\bin\Lab4.dll
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4Unzipped\Lab4\Lab4\bin\Lab4.pdb
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4Unzipped\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4Unzipped\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4Unzipped\Lab4\Lab4\obj\Debug\Lab4.dll
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab4Unzipped\Lab4\Lab4\obj\Debug\Lab4.pdb
