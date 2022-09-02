@@ -1,0 +1,14 @@
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab5\Lab5\bin\Lab5.dll.config
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab5\Lab5\bin\Lab5.dll
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab5\Lab5\bin\Lab5.pdb
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab5\Lab5\obj\Debug\Lab5.dll
+C:\Users\Anika\Desktop\EC512 Client-Server Software\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Personal Data\Boston University\(2021-22) Senior\Spring\EC512 Client-Server Software\Lab5p2\Lab5\Lab5\bin\Lab5.dll.config
+C:\Personal Data\Boston University\(2021-22) Senior\Spring\EC512 Client-Server Software\Lab5p2\Lab5\Lab5\bin\Lab5.dll
+C:\Personal Data\Boston University\(2021-22) Senior\Spring\EC512 Client-Server Software\Lab5p2\Lab5\Lab5\bin\Lab5.pdb
+C:\Personal Data\Boston University\(2021-22) Senior\Spring\EC512 Client-Server Software\Lab5p2\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Personal Data\Boston University\(2021-22) Senior\Spring\EC512 Client-Server Software\Lab5p2\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Personal Data\Boston University\(2021-22) Senior\Spring\EC512 Client-Server Software\Lab5p2\Lab5\Lab5\obj\Debug\Lab5.dll
+C:\Personal Data\Boston University\(2021-22) Senior\Spring\EC512 Client-Server Software\Lab5p2\Lab5\Lab5\obj\Debug\Lab5.pdb
